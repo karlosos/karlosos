@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hi Github 👋
+
+
+<p align="center">
+  
+  <img src="https://github.com/karlosos/karlosos/raw/master/github.gif" width="32px">
+  <br><br>
+  <samp>
+I'm Karol. A computer science enthusiast from Szczecin, Poland. I develop web applications with Django and React, landing pages and other applications for startups and enterprises. Currently focusing on getting master's degree in CompSci. 
+     <br><br>💬 Contact me on <a href="https://www.linkedin.com/in/karol-dzialowski/">LinkedIn</a> or <a href="mailto:karlososhd@gmail.com">Send an Email</a>
+  </samp>
+</p>
 
 <!--
-**karlosos/karlosos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**surjithctly/surjithctly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
