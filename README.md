@@ -20,6 +20,12 @@ I'm Karol. A computer science enthusiast from Szczecin, Poland. I develop web ap
 <a href="https://sourcerer.io/karlosos"><img src="https://img.shields.io/badge/PHP-117%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/karlosos"><img src="https://img.shields.io/badge/SQL-21%20commits-orange.svg" alt=""></a>
 </div>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=karlosos&theme=darkhub&row=2&column=3" />
+</p>
+
+
 <!--
 **surjithctly/surjithctly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
