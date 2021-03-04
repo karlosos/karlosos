@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  
-  <img src="https://github.com/karlosos/karlosos/raw/master/github.gif" width="32px">
+ 
+  <!-- <img src="https://github.com/karlosos/karlosos/raw/master/github.gif" width="32px"> -->
   <br><br>
   <samp>
 I'm Karol. A computer science enthusiast from Szczecin, Poland. I develop web applications with Django and React, landing pages and other applications for startups and enterprises. Currently focusing on getting master's degree in CompSci. 
