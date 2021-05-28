@@ -7,9 +7,21 @@
 
 <p align="center">
   <samp>
-I'm Karol. A computer science enthusiast from Szczecin, Poland. I develop web applications with Django and React, landing pages and other applications for startups and enterprises. Currently focusing on getting master's degree in CompSci. 
+I'm Karol. A computer science enthusiast from Szczecin, Poland. Passionate about <b>Machine Learning and Computer Vision</b>. I also develop web applications with Django and React, landing pages and other applications for startups and enterprises. Currently focusing on getting master's degree in CompSci. 
      <br><br>💬 Contact me on <a href="https://www.linkedin.com/in/karol-dzialowski/">LinkedIn</a> or <a href="mailto:karlososhd@gmail.com">Send an Email</a>
   </samp>
+</p>
+
+<p align="center">
+<table>
+<tbody>
+<td align="center">
+<img width="2000" height="0"><br>
+Visit my personal website <br> <b><a href="">dzialowski.eu 👨🏻‍💻</a></b><br>
+<img width="2000" height="0">
+</td>
+</tbody>
+</table>
 </p>
 
 <p align="center">
