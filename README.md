@@ -17,7 +17,7 @@ I'm Karol. A computer science enthusiast from Szczecin, Poland. Passionate about
 <tbody>
 <td align="center">
 <img width="2000" height="0"><br>
-Visit my personal website <br> <b><a href="">dzialowski.eu 👨🏻‍💻</a></b><br>
+Visit my personal website <br> <b><a href="https://www.dzialowski.eu/">dzialowski.eu 👨🏻‍💻</a></b><br>
 <img width="2000" height="0">
 </td>
 </tbody>
