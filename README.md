@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-I'm Karol. A computer science enthusiast from Szczecin, Poland. Passionate about <b>Machine Learning and Computer Vision</b>. I also develop web applications with Django and React, landing pages and other applications for startups and enterprises. Recently finished master's degree in CompSci. 
+I'm Karol. A computer science enthusiast from Szczecin, Poland. I develop web applications with React. Master's degree in CompSci. 
      <br><br>💬 Contact me on <a href="https://www.linkedin.com/in/karol-dzialowski/">LinkedIn</a> or <a href="mailto:karlososhd@gmail.com">Send an Email</a>
   </samp>
 </p>
